@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Plugin_Name\Tests\Integration;
+namespace Apermo\McTools\Tests\Integration;
 
-use Plugin_Name\Plugin;
+use Apermo\McTools\Plugin;
 use WP_UnitTestCase;
 
 /**
